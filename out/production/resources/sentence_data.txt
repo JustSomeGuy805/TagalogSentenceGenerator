@@ -1,0 +1,80 @@
+-Saan ang banyo?
+Saan ang [PLACE,DEMONSTRABLE]?#Where is the $1?
+
+-Dito ang banyo
+[PRONOUN,DEMONSTRATIVE,PLACE] ang [PLACE,DEMONSTRABLE].#The $2 is $1.
+
+-Nasaan ang kotse?
+Nasaan ang [OBJECT,DEMONSTRABLE,SINGLE]?#Where is the $1?
+
+-Nasaan si John?
+Nasaan si [ACTOR,NAME,SINGLE]?#Where is $1?
+
+-Nandito ang kotse.
+[PRONOUN,OBJECT,DEMONSTRATIVE] ang [OBJECT,DEMONSTRABLE,SINGLE].#The $2 is $1.
+
+-Nandito si John.
+[PRONOUN,OBJECT,DEMONSTRATIVE] si [ACTOR,NAME,SINGLE]#$2 is $1.
+
+-Gusto kong kumain.
+Gusto [PRONOUN,NG]ng [VERB,ACTOR,INFINITIVE].#$1 want to $2.
+
+-Gusto ko ng kanin/I want some rice.
+Gusto [PRONOUN,NG] ng [OBJECT,UNCOUNTABLE].#$1 want some $2.
+
+-Gusto ko ng kotse/I want a car.
+Gusto [PRONOUN,NG] ng [OBJECT,SINGLE].#$1 want a $2.
+
+-Gustong kumain ni John.
+Gustong [VERB,ACTOR,INFINITIVE] ni [ACTOR,NAME,SINGLE].#$2 wants to $1.
+
+-Gustong kumain ng bata.
+Gustong [VERB,ACTOR,INFINITIVE] ng [ACTOR,GENERIC,SINGLE].#The $2 wants to $1.
+
+-Ayaw kong kumain
+Ayaw [PRONOUN,NG]ng [VERB,ACTOR,INFINITIVE].#$1 don''t want to $2.
+
+-Ayaw kumain ng bata.
+Ayaw [VERB,ACTOR,INFINITIVE] ng [ACTOR,GENERIC,SINGLE].#The $2 doesn''t want to $1.
+
+-Saan/Kailan mong gustong kumain?
+[INTERROGATOR:PLACE,TIME] [PRONOUN,NG] gustong [VERB,ACTOR,INFINITIVE]?#$1 do $2 want to $3?
+
+-Saan/Kailan ka pumunta?
+[INTERROGATOR:PLACE,TIME] [PRONOUN,ANG] [VERB,ACTOR,INFINITIVE]?#$1 did $2 $3?
+
+-Saan/Kailan ka pupunta?
+[INTERROGATOR:PLACE,TIME] [PRONOUN,ANG] [VERB,ACTOR,FUTURE]?#$1 will $2 $3?
+
+-Saan/Kailan pumunta ang bata?
+[INTERROGATOR:PLACE,TIME] [VERB,ACTOR,INFINITIVE] ang [ACTOR,GENERIC,SINGLE]?#$1 did the $3 $2?
+
+-Saan/Kailan pupunta ang bata?
+[INTERROGATOR:PLACE,TIME] [VERB,ACTOR,FUTURE] ang [ACTOR,GENERIC,SINGLE]?#$1 will the $3 $2?
+
+-Anong gusto mong gawin?
+Anong gusto [PRONOUN,NG]ng [VERB,OBJECT,INFINITIVE]?#What do $1 want to $2?
+
+-Anong mas gusto mong gawin?
+Anong mas gusto [PRONOUN,NG]ng [VERB,OBJECT,INFINITIVE]?#What do $1 prefer to $2?
+
+-Anong mas gusto gawin ng bata?
+Anong mas gusto [VERB,OBJECT,INFINITIVE] ng [ACTOR,GENERIC,SINGLE]?#What does the $2 prefer to $1?
+
+-Kanin ang gusto ko
+[OBJECT,UNCOUNTABLE] ang gusto [NG,PRONOUN].#$1 is what $2 want.
+
+-Kakain ako nang alas dos
+[VERB,ACTOR,FUTURE] [PRONOUN,ANG] nang [TIME,CLOCK].#$2 will $1 at $3.
+
+-Alas otso ako kakain.
+[TIME,CLOCK] [PRONOUN,ANG] [VERB,ACTOR,FUTURE]#At $1, $2 will $3.
+
+-Meron/Wala kang kotse.
+[POSSESSOR] [PRONOUN,ANG]ng [OBJECT,DEMONSTRABLE,SINGLE].#$2 $1 a/the $3.
+
+-Ilan dolyar meron ka
+-Ilan [OBJECT,COUNTABLE] meron [PRONOUN,ANG]?#How many $1 do $2 have?
+
+
+

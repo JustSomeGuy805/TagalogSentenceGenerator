@@ -1,0 +1,12 @@
+saan:where:INTERROGATOR,PLACE
+kailan:when:INTERROGATOR,TIME
+
+alas dos:two o clock:TIME,CLOCK
+ala una:one o clock:IME,CLOCK
+alas kuwatro:four o clock:IME,CLOCK
+alas sais:six clock:IME,CLOCK
+
+meron:have:POSSESSOR
+wala:don''t have:POSSESSOR
+
+

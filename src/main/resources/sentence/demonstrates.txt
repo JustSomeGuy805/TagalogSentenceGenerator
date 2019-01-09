@@ -1,0 +1,12 @@
+-Saan ang banyo?
+Saan ang [PLACE,DEMONSTRABLE]?#Where is the $1?
+
+-Dito ang banyo
+[PRONOUN,DEMONSTRATIVE,PLACE] ang [PLACE,DEMONSTRABLE].#The $2 is $1.
+
+-Nasaan (ang kotse / si John)?
+Nasaan [ANG_PHRASE,DEMONSTRABLE:PERSON,OBJECT]?#Where is $1?
+
+-Nandito ang kotse.
+[PRONOUN,OBJECT,DEMONSTRATIVE] [ANG_PHRASE,DEMONSTRABLE:PERSON,OBJECT].#$2 is $1.
+

@@ -1,0 +1,23 @@
+-Saan/Kailan mong gustong kumain?
+-[INTERROGATOR:PLACE,TIME] [PRONOUN,NG] gustong [VERB,ACTOR,INFINITIVE]?#$1 do $2 want to $3?
+
+-Saan/Kailan ka pumunta?
+-[INTERROGATOR:PLACE,TIME] [PRONOUN,ANG] [VERB,ACTOR,INFINITIVE]?#$1 did $2 $3?
+
+-Saan/Kailan ka pupunta?
+-[INTERROGATOR:PLACE,TIME] [PRONOUN,ANG] [VERB,ACTOR,FUTURE]?#$1 will $2 $3?
+
+-Saan/Kailan pumunta ang bata?
+-[INTERROGATOR:PLACE,TIME] [VERB,ACTOR,INFINITIVE] ang [ACTOR,GENERIC,SINGLE]?#$1 did the $3 $2?
+
+-Saan/Kailan pupunta ang bata?
+-[INTERROGATOR:PLACE,TIME] [VERB,ACTOR,FUTURE] ang [ACTOR,GENERIC,SINGLE]?#$1 will the $3 $2?
+
+-Anong gusto mong gawin?
+-Anong gusto [PRONOUN,NG]ng [VERB,OBJECT,INFINITIVE]?#What do $1 want to $2?
+
+-Anong mas gusto mong gawin?
+-Anong mas gusto [PRONOUN,NG]ng [VERB,OBJECT,INFINITIVE]?#What do $1 prefer to $2?
+
+-Anong mas gusto gawin ng bata?
+-Anong mas gusto [VERB,OBJECT,INFINITIVE] ng [ACTOR,GENERIC,SINGLE]?#What does the $2 prefer to $1?

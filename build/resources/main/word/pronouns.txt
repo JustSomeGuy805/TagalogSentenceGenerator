@@ -1,0 +1,19 @@
+dito:here:PRONOUN,DEMONSTRATIVE,PLACE
+dyan:over there near you:PRONOUN,DEMONSTRATIVE,PLACE
+doon:over there:PRONOUN,DEMONSTRATIVE,PLACE
+
+nandito:here:PRONOUN,OBJECT,DEMONSTRATIVE
+nandyan:over there near you:PRONOUN,OBJECT,DEMONSTRATIVE
+nandoon:over there:PRONOUN,OBJECT,DEMONSTRATIVE
+
+ko:I:PRONOUN,NG
+mo:you:PRONOUN,NG
+nyo:you guys:PRONOUN,NG
+nya:he:PRONOUN,NG
+nila:they:PRONOUN,NG
+
+ako:I:PRONOUN,ANG
+ka:you:PRONOUN,ANG
+kayo:you guys:PRONOUN,ANG
+sya:he:PRONOUN,ANG
+sila:they:PRONOUN,ANG

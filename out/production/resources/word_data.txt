@@ -1,0 +1,73 @@
+banyo:bathroom:PLACE,DEMONSTRABLE
+exit:exit:PLACE,DEMONSTRABLE
+ospital:hospital:PLACE,DEMONSTRABLE
+parke:park:PLACE,DEMONSTRABLE
+party:party:PLACE,DEMONSTRABLE
+
+dito:here:PRONOUN,DEMONSTRATIVE,PLACE
+dyan:over there near you:PRONOUN,DEMONSTRATIVE,PLACE
+doon:over there:PRONOUN,DEMONSTRATIVE,PLACE
+
+
+kotse:car:OBJECT,DEMONSTRABLE,SINGLE
+susi:key:OBJECT,DEMONSTRABLE,SINGLE
+cell phone:cell phone:OBJECT,DEMONSTRABLE,SINGLE
+
+kanin:rice:OBJECT,UNCOUNTABLE
+karne:meat:OBJECT,UNCOUNTABLE
+pera:money:OBJECT,UNCOUNTABLE
+tubig:water:OBJECT,UNCOUNTABLE
+kape::coffee::OBJECT,UNCOUNTABLE
+
+John:John:ACTOR,NAME,SINGLE
+Judy:Judy:ACTOR,NAME,SINGLE
+Jim:Jim:ACTOR,NAME,SINGLE
+
+bata:kid:ACTOR,GENERIC,SINGLE
+aso:dog:ACTOR,GENERIC,SINGLE
+lalaki:man:ACTOR,GENERIC,SINGLE
+babae:woman:ACTOR,GENERIC,SINGLE
+
+nandito:here:PRONOUN,OBJECT,DEMONSTRATIVE
+nandyan:over there near you:PRONOUN,OBJECT,DEMONSTRATIVE
+nandoon:over there:PRONOUN,OBJECT,DEMONSTRATIVE
+
+ko:I:PRONOUN,NG
+mo:you:PRONOUN,NG
+nyo:you guys:PRONOUN,NG
+nya:he:PRONOUN,NG
+nila:they:PRONOUN,NG
+
+ako:I:PRONOUN,ANG
+ka:you:PRONOUN,ANG
+kayo:you guys:PRONOUN,ANG
+sya:he:PRONOUN,ANG
+sila:they:PRONOUN,ANG
+
+kumain:eat:VERB,ACTOR,INFINITIVE
+kakain:eat:VERB,ACTOR,FUTURE
+uminom:drink:VERB,ACTOR,INFINITIVE
+iinom:drink:VERB,ACTOR,FUTURE
+pumunta:go:VERB,ACTOR,INFINITIVE
+pupunta:go:VERB,ACTOR,FUTURE
+bumili:buy:VERB,ACTOR,INFINITIVE
+bibili:buy:VERB,ACTOR,FUTURE
+
+kainin:eat:VERB,OBJECT,INFINITIVE
+inumin:drink:VERB,OBJECT,INFINITIVE
+gawin:do:VERB,OBJECT,INFINITIVE
+bilhin:buy:VERB,OBJECT,INFINITIVE
+
+
+saan:where:INTERROGATOR,PLACE
+kailan:when:INTERROGATOR,TIME
+
+alas dos:two o clock:TIME,CLOCK
+ala una:one o clock:IME,CLOCK
+alas kuwatro:four o clock:IME,CLOCK
+alas sais:six clock:IME,CLOCK
+
+meron:have:POSSESSOR
+wala:don''t have:POSSESSOR
+
+

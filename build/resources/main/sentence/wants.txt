@@ -1,0 +1,23 @@
+-Gusto kong kumain.
+-Gusto [PRONOUN,NG]ng [VERB,ACTOR,INFINITIVE].#$1 want to $2.
+
+-Gusto ko ng kanin/I want some rice.
+-Gusto [PRONOUN,NG] ng [OBJECT,UNCOUNTABLE].#$1 want some $2.
+
+-Gusto ko ng kotse/I want a car.
+-Gusto [PRONOUN,NG] ng [OBJECT,SINGLE].#$1 want a $2.
+
+-Gustong kumain ni John.
+-Gustong [VERB,ACTOR,INFINITIVE] ni [ACTOR,NAME,SINGLE].#$2 wants to $1.
+
+-Gustong kumain ng bata.
+-Gustong [VERB,ACTOR,INFINITIVE] ng [ACTOR,GENERIC,SINGLE].#The $2 wants to $1.
+
+-Ayaw kong kumain
+-Ayaw [PRONOUN,NG]ng [VERB,ACTOR,INFINITIVE].#$1 don''t want to $2.
+
+-Ayaw kumain ng bata.
+-Ayaw [VERB,ACTOR,INFINITIVE] ng [ACTOR,GENERIC,SINGLE].#The $2 doesn''t want to $1.
+
+-Kanin ang gusto ko
+-[OBJECT,UNCOUNTABLE] ang gusto [NG,PRONOUN].#$1 is what $2 want.

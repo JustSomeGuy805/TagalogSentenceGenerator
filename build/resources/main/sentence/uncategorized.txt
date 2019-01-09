@@ -1,0 +1,14 @@
+-Kakain ako nang alas dos
+-[VERB,ACTOR,FUTURE] [PRONOUN,ANG] nang [TIME,CLOCK].#$2 will $1 at $3.
+
+-Alas otso ako kakain.
+-[TIME,CLOCK] [PRONOUN,ANG] [VERB,ACTOR,FUTURE]#At $1, $2 will $3.
+
+-Meron/Wala kang kotse.
+-[POSSESSOR] [PRONOUN,ANG]ng [OBJECT,DEMONSTRABLE,SINGLE].#$2 $1 a/the $3.
+
+-Ilan dolyar meron ka
+-Ilan [OBJECT,COUNTABLE] meron [PRONOUN,ANG]?#How many $1 do $2 have?
+
+
+
