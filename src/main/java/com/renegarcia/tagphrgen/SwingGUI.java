@@ -294,6 +294,7 @@ public class SwingGUI extends javax.swing.JFrame
             catch (Exception ex)
             {
                 log.log(Level.WARNING, null, ex);
+                System.out.printf("");
                 
                 EventQueue.invokeLater(()-> {
                      JOptionPane.showMessageDialog(this, "Unable to play audio.\n\n" + ex.getMessage(), "Audio Erro", JOptionPane.WARNING_MESSAGE);
